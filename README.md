@@ -6,18 +6,6 @@ An interactive lava lamp with glowing wax, flowing internal detail, glass reflec
 
 Open `index.html` in a modern browser. No installation or build step is required.
 
-## Upload to GitHub
-
-1. Extract this ZIP.
-2. Create a GitHub repository.
-3. Upload the extracted files, keeping `index.html` at the repository root.
-
-## Publish with GitHub Pages
-
-In the repository, open **Settings → Pages**. Choose **Deploy from a branch**, select **main** and **/ (root)**, then save.
-
-For Vercel, import the repository as a static site with framework preset **Other**. No build command is needed; serve the repository root.
-
 ## Controls
 
 - Choose a color using the color buttons.
